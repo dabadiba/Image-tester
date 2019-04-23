@@ -59,3 +59,4 @@ def pixel_stas(d):
     return np.mean(d)
 
 print(rect_roi(dat, 1,2))
+print(rect_roi(dat, 1,1))
